@@ -1,0 +1,146 @@
+%=======================================================================
+% Template para dissertação 
+% Programa de Pós Graduação em Informática Aplicada da Universidade Federal 
+% Rural de Pernambuco
+%=======================================================================
+
+%para incluir um arquivo por vez use \includeonly. 
+%exemplos:
+%\includeonly{capitulos/introducao,capitulos/bibliografia}
+%\includeonly{capitulos/introducao,capitulos/conclusoes,capitulos/bibliografia}
+%\includeonly{prefacios/capa2,prefacios/folha_rosto,prefacios/resumo,prefacios/abstract,capitulos/introducao,capitulos/bibliografia }
+
+\documentclass [12pt,fleqn,oneside]{book}    % nomes e hifenação em português
+\usepackage[brazil]{babel}         % Pacotes relativos à linguagem de entrada
+\usepackage [utf8]{inputenc}     % aceitar texto acentuado em UTF-8
+\usepackage {fancyhdr}             % cabeçalhos mais sofisticados
+\usepackage {indentfirst}          % indentar 1a linha de cada seção
+
+% Pacotes adicionados por mim
+\usepackage{float}
+\usepackage{nomencl}
+\usepackage{multirow}
+\usepackage{caption}
+\usepackage{array}
+\usepackage{ltablex}
+
+% Pacotes relativos à inclusão de figuras
+\usepackage {graphicx}         % para incluir figuras em PostScript
+\usepackage{amsfonts,amsthm,amsopn,amssymb,latexsym}
+\usepackage{geometry}
+\usepackage[intlimits]{amsmath}
+\usepackage{hyperref}
+\usepackage{color}
+
+% Dimensões da página
+\usepackage{a4}                       % tamanho da página
+\setlength{\textwidth}{16.5cm}        % largura do texto
+\setlength{\textheight}{9in}        % tamanho do texto (sem head, etc)
+\renewcommand{\baselinestretch}{1.4}  % espaçamento entre linhas
+\addtolength{\topmargin}{-1cm}        % espaço entre o head e a margem
+\setlength{\oddsidemargin}{-0.1cm}    % espaço entre o texto e a margem
+\setlength{\parindent}{.0in}          % identação na 1a linha de cada parágrafo
+\sloppy                               % Ser indulgente no preenchimento das linhas
+\parskip 10pt                         % Espaçamento entre parágrafos
+
+%alguns macros
+\newtheorem{teo}{Teorema}[chapter]
+\newtheorem{lema}[teo]{Lema}
+\newtheorem{cor}[teo]{Corol\'{a}rio}
+\newtheorem{prop}[teo]{Proposi\c{c}\~{a}o}
+\newtheorem{defin}[teo]{Defini\c{c}\~ao}
+\newtheorem{Af}[teo]{Afirma\c{c}\~{a}o}
+\newtheorem{ex}[teo]{Exemplo}
+\newtheorem{obs}[teo]{Observa\c{c}\~{a}o}
+\newcommand{\R}{\ensuremath{\mathbb{R}}}
+\newcommand{\Rn}{{\ensuremath{\mathbb{R}}}^{n}}
+\newcommand{\Rm}{{\ensuremath{\mathbb{R}}}^{m}}
+\newcommand{\Rnn}{{\ensuremath{\mathbb{R}}}^{ n \times n }}
+\newcommand{\N}{\ensuremath{\mathbb{N}}}
+\newcommand{\Z}{\ensuremath{\mathbb{Z}}}
+\newcommand{\blackbox}{\rule{2mm}{2mm}}
+\newcommand{\raiz}{\mbox{raiz}}
+\newcommand{\contcaption}[1]{\vspace*{-0.1\baselineskip}\begin{center}#1\end{center}\vspace*{0.3\baselineskip}}
+
+% Definindo as barras para a capa
+\newcommand{\HRule}{\rule{\linewidth}{1mm}}
+
+% Customização da Lista de Siglas
+\makenomenclature
+\renewcommand{\nomname}{Lista de Siglas}
+
+% ====================================================================================
+
+
+% Início do texto
+\begin {document}
+
+% Páginas sem numeração (capa, agradecimentos, etc)
+\pagestyle {empty}
+
+% Páginas iniciais
+\include{prefacios/capa/capa}           % capa ilustrativa
+\include{prefacios/folha_rosto/folha_rosto}     % capa ABNT
+
+% Numeração em romanos para páginas iniciais (sumários, listas, etc)
+\pagenumbering {roman}
+\pagestyle {plain}
+
+% Geração do sumário, agradecimentos, e etc..
+\include{prefacios/resumo/resumo}         % resumo em português
+\include{prefacios/abstract/abstract}
+\tableofcontents                    % sumário
+%\listoftables                       % lista de tabelas
+\listoffigures                      % lista de figuras
+\printnomenclature		     % lista de siglas
+%\listofprograms                    % lista de programas
+\clearpage
+
+
+%=======================================================================
+% Definir um estilo para páginas completas (cabeçalho + rodapé)
+\pagestyle {fancyplain}
+
+% Marca de capítulo do tipo "2. Blábláblá..." no cabeçalho
+\renewcommand{\chaptermark}[1]{\markboth{\thechapter.\ {#1}}{}}
+
+% Para aumentar o tamanho da caixa para o cabeçalho
+\addtolength{\headheight}{\baselineskip}
+
+% Definindo o conteúdo do cabeçalho...
+\fancyhf{}
+\fancyhead[L,L]{\nouppercase{\textsf{\leftmark}}} %comentar
+\fancyhead[R,R]{\thepage}
+
+% Para garantir que a primeira página de cada capítulo...
+\fancypagestyle{plain}{
+\fancyhf{}                          % não terá head ou foot
+\renewcommand{\headrulewidth}{0pt}} % nem linhas de cabeçalho
+%=======================================================================
+
+
+% Capítulos são numerados em algarismos arábicos
+\setcounter{page}{0} \pagenumbering{arabic}
+
+%incluir os arquivos dos capítulos
+% Os arquivos de cada capítulo devem iniciar com \chapter{Nome do Capítulo}
+% (o nome deve terminar com .tex)
+\include{capitulos/introducao/introducao}
+\include{capitulos/literatura/literatura} %referencia teorica
+\include{capitulos/las/analise_las} %metodologia
+\include{capitulos/validacao/validacao} %Automação de testes no desenvolvimento de uma aplicação
+\include{capitulos/conclusoes/conclusoes} %conclusao
+
+%Incluindo referências bibliográficas
+\bibliographystyle{plain} %define o estilo
+\bibliography{./bibliografia/referencias} %busca o arquivo referencias.bib
+
+% Incluindo anexos numerados com letras maiusculas.
+
+%\appendix 
+% No arquivo, começar com \chapter{Nome do Anexo}
+%\include{posfacios/anexo1}
+
+% Fim do texto
+\end{document}
+%=======================================================================

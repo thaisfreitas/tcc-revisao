@@ -1,0 +1,238 @@
+\begin{thebibliography}{10}
+
+\bibitem{ace}
+Ace.
+\newblock Disponível em: \url{http://jmir.sourceforge.net/ACE.html}. Acessado
+  em 30/12/2014.
+
+\bibitem{jmir}
+jmir.
+\newblock Disponível em: \url{http://jmir.sourceforge.net/overview.html}.
+  Acessado em 30/12/2014.
+
+\bibitem{Wissink206}
+T.~Wissink;~C. Amaro.
+\newblock Strategies for agile software testing automation: An industrial
+  experience.
+\newblock In {\em Software Maintenance, 2006. ICSM '06. 22nd IEEE International
+  Conference on}, pages 265--266, September 2006.
+
+\bibitem{ansiieee1059}
+IEEE~Standards Board.
+\newblock Ieee guide for software verification and validation plans.
+\newblock Technical report, The Institute of Electrical and Electronics
+  Engineers, Inc, December 1993.
+
+\bibitem{Fantinato2004}
+FANTINATO M.; CUNHA A.; DIAS S.; MIZUNO S.; E~CUNHA C.
+\newblock Um framework reutilizável para a automação de teste funcional de
+  software.
+\newblock In {\em SIMPÓSIO BRASILEIRO DE QUALIDADE DE SOFTWARE}, 2004.
+
+\bibitem{Collins2012}
+E.~Collins and Lucena V.~F. Dias-Neto.
+\newblock Strategies for agile software testing automation: An industrial
+  experience.
+\newblock In {\em Computer Software and Applications Conference Workshops
+  (COMPSACW), 2012 IEEE 36th Annual}, pages 440--445, July 2012.
+
+\bibitem{James2012}
+James Crisp.
+\newblock Automated testing and the test pyramid, May 2011.
+\newblock Disponível em:
+  \url{http://jamescrisp.org/2011/05/30/automated-testing-and-the-test-pyramid/}.
+  Acessado em: 30/11/2014.
+
+\bibitem{James2011}
+James Crisp.
+\newblock Yet another software testing pyramid, June 2011.
+\newblock Disponível em:
+  \url{http://watirmelon.com/2011/06/10/yet-another-software-testing-pyramid/}.
+  Acessado em: 30/11/2014.
+
+\bibitem{Cucumber}
+cukes.info.
+\newblock Cucumber.
+\newblock Disponível em: \url{http://cukes.info/}. Acessado em 31/12/2014.
+
+\bibitem{Cysneiros1997}
+L.~M CYSNEIROS.
+\newblock Integrando requisitos não funcionais ao processo de desenvolvimento
+  de software.
+\newblock Master's thesis, Departamento de Informática, Pontifícia
+  Universidade Católica do Rio deJaneiro, 1997.
+
+\bibitem{jornalDiaDia}
+Jornal~Dia Dia.
+\newblock Barulho, inimigo da boa audicao, 2014.
+\newblock Disponível em:
+  \url{http://www.jornaldiadia.com.br/news/noticia.php?Id=49258#.VKG078AAA/}.
+  Acessado em 03/01/2015.
+
+\bibitem{Fewster1999}
+D~FEWSTER, M e~GRAHAM.
+\newblock {\em Software Test Automation - Effective use of test execution
+  tools}.
+\newblock Addison-Wesley, first edition, 1999.
+
+\bibitem{gherkin}
+Gherkin.
+\newblock Gherkin.
+\newblock Disponível em: \url{http://cukes.info/gherkin.html}. Acessado em
+  02/01/2015.
+
+\bibitem{Hooda2012}
+R.~Hooda.
+\newblock Automation of software testing: A foundation for the future.
+\newblock {\em INTERNATIONAL JOURNAL OF LATEST RESEARCH IN SCIENCE AND
+  TECHNOLOGY}, 1:152--154, 2012.
+
+\bibitem{JBehave}
+JBehave.org.
+\newblock Jbehave.
+\newblock Disponível em: \url{http://jbehave.org/}. Acessado em 31/12/2014.
+
+\bibitem{JUnit}
+junit.org.
+\newblock Junit.
+\newblock Disponível em: \url{http://junit.org/}. Acessado em 31/12/2014.
+
+\bibitem{Kirner1996}
+A.~M. KIRNER, T. G.;~DAVIS.
+\newblock Nonfunctional requirements of real-time systems.
+\newblock {\em Advances in Computers}, 42:1--37, 1996.
+
+\bibitem{Lima2012}
+T.~Lima.
+\newblock Usando o silktest para automatizar testes: um relato de experiencia.
+\newblock In {\em 6TH BRAZILIAN WORKSHOP ON SYSTEMATIC AND AUTOMATED SOFTWARE
+  TESTING}, 2012.
+
+\bibitem{tutorialsPoint}
+Tutorials Point India~Private Limited.
+\newblock Software testing-overview.
+\newblock Disponível em:
+  \url{http://www.tutorialspoint.com/software_testing/software_testing_overview.htm}.
+  Acessado em 30/12/2014.
+
+\bibitem{Budnik2010}
+BUDNIK C. J.; CHAN W. K.; KAPFHAMMER~G. M.
+\newblock Bridging the gap between the theory and practice of software test
+  automation.
+\newblock In {\em Software Engineering, 2010 ACM/IEEE 32nd International
+  Conference on (Volume:2 )}, pages 445--446, May 2010.
+
+\bibitem{Maldonado1988}
+J.~C. Maldonado and A.~Vincenzi.
+\newblock Aspectos teóricos e empíricos de testes de cobertura de software.
+\newblock Technical report, Instituto de Ciencias Matemáticas e de
+  Computação - ICMC-USP, June 1998.
+
+\bibitem{Wanessa2012}
+Wanessa Mariana and Angelica Toffano.
+\newblock Ferramentas free para teste de software: um estudo comparativo.
+\newblock Technical report, Centro Universitario de Brasilia-Uniceub, August
+  2012.
+
+\bibitem{ruido}
+Nuno Trigueiros-Cunha Marie~Camilleri.
+\newblock Ruido: Atencao perigo ! proteccao.
+\newblock Disponível em: \url{http://www.cochlea.org/po/ruido}. Acessado em
+  03/01/2015.
+
+\bibitem{Molinari2010}
+Bruno Molinari.
+\newblock Implementacao de ambiente de testes automatizados para avaliacao de
+  parametros de qos em redes de comunicacao de dados baseado em software livre.
+\newblock Technical report, UNIVERSIDADE SAO FRANCISCO-Engenharia de
+  Computacao, 2002.
+
+\bibitem{bddIntroducing}
+D.~North.
+\newblock Introducing bdd.
+\newblock Disponível em: \url{http://dannorth.net/introducing-bdd/}. Acessado
+  em 31/12/2014.
+
+\bibitem{inportanciaTestesAutomatizados}
+Fabio~Kon Paulo~Cheque.
+\newblock A importancia dos testes automatizados.
+\newblock {\em Engenharia de Software Magazine}, 72:54–57, 2008.
+
+\bibitem{Bret1999}
+Bret Pettichord.
+\newblock Seven steps to test automation success.
+\newblock STAR West, San Jose, November 1999.
+\newblock Disponível em:
+  \url{http://https://www.prismnet.com/~wazmo/papers/seven_steps}. Acessado em:
+  30/11/2014.
+
+\bibitem{censo2010}
+O~portal de infromacao para pessoa~com deficiencia.
+\newblock Resultados do censo 2010 feito pelo ibge sobre pessoas com
+  deficiÊncia.
+\newblock Disponível em:
+  \url{http://www.deficientefisico.com/resultados-do-censo-2010-feito-pelo-ibge-sobre-pessoas-com-deficiencia/}.
+  Acessado em 02/01/2015.
+
+\bibitem{Dustin1999}
+Elfriede Dustin;~J. Rashka; and J.~Paul.
+\newblock {\em The Art of Agile Development}.
+\newblock Addison-Wesley, first edition, 1999.
+
+\bibitem{Pressman2002}
+Pressman; R.S.
+\newblock Software engineering: A practitioners approach.
+\newblock Technical report, McGraw Hill, Inc, 2002.
+
+\bibitem{RSpec}
+rspec.info.
+\newblock Rspec.
+\newblock Disponível em: \url{http://rspec.info/}. Acessado em 31/12/2014.
+
+\bibitem{WatirMelon2012}
+Alister Scott.
+\newblock Introducing the software testing ice-cream cone (anti-pattern),
+  January 2012.
+\newblock Disponível em:
+  \url{http://watirmelon.com/2012/01/31/introducing-the-software-testing-ice-cream-cone/}.
+  Acessado em: 25/11/2014.
+
+\bibitem{SoftexRecife}
+RECIFE SOFTEX.
+\newblock Fundamentos do teste de software.
+\newblock Disponível em:
+  \url{http://ava.nac.softex.br/pluginfile.php/602/mod_resource/content/2/Aula%202.pdf}.
+  Acessado em 02/01/2015.
+
+\bibitem{Solis2011}
+Xiaofeng~Wang Solis~C.
+\newblock An integration testing coverage tool for object-oriented software.
+\newblock In {\em Software Engineering and Advanced Applications (SEAA), 2011
+  37th EUROMICRO Conference on}, pages 383--387, Aug 2011.
+
+\bibitem{Pachawan2014}
+Pachawan Augsornsri;~Taratip Suwannasart.
+\newblock An integration testing coverage tool for object-oriented software.
+\newblock In {\em Information Science and Applications (ICISA), 2014
+  International Conference on}, pages 1--5, May 2014.
+
+\bibitem{Leung1990}
+K.N. Leung Hareton;~Lee White.
+\newblock A study of integration testing and software regression at the
+  integration level.
+\newblock In {\em Software Maintenance, 1990, Proceedings., Conference on},
+  pages 290--301, November 1990.
+
+\bibitem{XiangFeng2011}
+Weinan~Shanxi XiangFeng~Meng.
+\newblock Analysis of software automation test protocol.
+\newblock In {\em International Conference on Electronic and Mechanical
+  Engineering and Information Technology}, pages 4138 -- 4141, August 2011.
+
+\bibitem{Zambelich1998}
+K.~Zambelich.
+\newblock Totally data-driven automated testing.
+\newblock Disponível em: \url{http://www.sqatest.com/w_paper1.html}. Acessado
+  em 30/12/2014.
+
+\end{thebibliography}

@@ -1,0 +1,75 @@
+\chapter{Introdução}
+
+\section{Apresentação}
+
+No desenvolvimento de software muitos métodos ágeis, como Lean, Scrum e XP é recomendado que todas as pessoas de um projeto (programadores, gerentes, equipes de homologação e até mesmo os clientes) trabalhem controlando a qualidade do produto, todos os dias e a todo momento, pois, há evidências que prevenir defeitos é mais fácil e barato do que identificar e corrigi. Vale ressaltar ainda, que os métodos ágeis não se opõem a quaisquer revisões adicionais que sejam feitas para aumentar a qualidade \cite{inportanciaTestesAutomatizados}.
+
+Uma importante etapa do ciclo de vida do desenvolvimento de software que compõe as metodologias ágeis é a fase que envolve os testes, pois a qualidade dos testes aplicados impacta diretamente no funcionamento estável das aplicações. Essa fase pode ser demorada e desgastante quando são executadas de forma repetitiva, principalmente se falhas forem encontradas através dos testes exploratórios ou ah-doc, o que levará o testador possivelmente a despender tempo na investigação e entendimento das reais causas do problema \cite{XiangFeng2011}.
+
+Uma das principais razões para automatizar testes é a diminuição do tempo gasto nos testes manuais \cite{Maldonado1988}. Além de aumentar a eficiência de etapas repetitivas para reprodução de funcionalidades do sistema, especialmente em testes de regressão, onde os testes são executados iterativo e incremental após mudanças feitas no software \cite{Collins2012}.
+
+\section{Justificativas}
+
+A necessidade da entrega cada vez mais rápida de produtos de software faz com que o processo de teste necessite constantemente de rapidez e agilidade. Assim sendo, a automação de testes no ciclo de vida do desenvolvimento de software tem sido constantemente utilizada para suprir essa carência. É importante ressaltar que existe diferença entre testes e automação de testes, o primeiro termo se refere ao ato de testar, já automação é utilizar um software para imitar a interação do ser humano com a aplicação a ser testada \cite{Wanessa2012}.
+
+Um fator que deve ser levado em consideração é que o tempo de execução dos testes automatizados, pois ocorre em proporções bem menores em relação ao tempo executado por um processo de teste manual, onde nem sempre o time terá tempo hábil para aplicar todos os testes planejados. Isso não exclui a possibilidade do processo de testes ser hibrido, isto é, contemplar testes manuais e automatizados. Automação de testes pode ser uma poderosa forma de testes não funcionais, por exemplo, volume, carga e regressão \cite{Bret1999}.
+
+A automação dos testes tem como intuito a maximização da cobertura dos testes dentro do tempo disponível, para a validação e construção do software, aumentando a confiabilidade e qualidade \cite{Wissink206}. Considerando que o esforço em atividades de testes em projetos podem ser responsável por até 50\% do esforço total de desenvolvimento, automatizar o processo de testes é importante na redução e melhoria da eficácia dos testes realizados \cite{Budnik2010}. Os benefícios de tal abordagem em comparação com o teste manuais seriam: baixo custo de execução dos testes, possibilidade de replicar as sequências de teste velhas em novas versões de software (não gastando tempo com testes de regressão) e a possibilidade de realizar testes de estresse por um longo tempo de duração \cite{Wissink206}.
+
+Ainda querendo responder a pergunta, Porque automação de testes? Segundo \cite{James2012} esses seriam os principais motivos:
+\begin{itemize}
+	\item Realização dos testes de regressão mais rápido para que os sistemas/aplicações possam continuar mudando ao longo do tempo, sem uma longa fase de testes no final de cada ciclo de desenvolvimento.
+	\item Encontrar defeitos e problemas rapidamente, especialmente quando existe testes que podem ser executadas em máquinas de desenvolvedores, e como parte do serviço de complicação em um servidor de CI.
+	\item Certificação de que pontos de integração externos estão trabalhando da forma esperada.
+	\item Assegurar que o usuário pode interagir com o sistema como desejado.
+	\item Auxilia no debbuging, escrita e desenho do código fonte.
+	\item Ajuda a especificar o desempenho da aplicação.
+\end{itemize}
+
+No geral, com o uso de testes automatizados estamos aumentado a velocidade de entrega do projeto construído e com maior garantia de qualidade \cite{James2012}. O que ameniza o esforço gasto pelas empresas no processo com testes manuais e aumenta a cobertura de testes que não seriam realizados, por falta de tempo e esforço.
+
+Muitas organizações costumam cair na mesma armadilha da aplicação da pirâmide de testes invertidas ou anti-padrão, como pode ser visto na imagem \cite{WatirMelon2012}.
+
+\begin{figure}[H]
+	\centering
+	\captionsetup{justification=centering,margin=2cm}
+	\includegraphics[scale=0.35]{capitulos/literatura/iceCreamConAntiPattern.eps}
+	\caption{Pirâmide de testes anti-padrão}
+	\label{fig:iceCreamConAntiPattern}
+\end{figure}
+
+Nesta figura está representado visualmente a quantidade de diferentes tipos de testes que podem ser aplicados pelo time no decorrer do desenvolvimento do software, onde é visto que boa parte dos testes são realizados manualmente e um quantidade pequena é realizada a nível unitário.
+
+Uma parte importante  da estratégia de testes, é  saber o foco de cada tipo diferente de testes e fazer com que os diferentes tipos de testes trabalhem juntos \cite{James2012}. Por exemplo, realizar testes de unidade, com alguns testes de integração e um pequeno número de testes de aceitação. Com essa mistura é possível cobrir caminhos alternativos de testes no código, alcançar e ultrapassar barreiras de testes mais rápido aplicando os testes de unidade \cite{James2012}. A seguir é mostrada a pirâmide ideal para aplicação de teste automatizado, em que o foco não está apenas nos testes manuais e sim na base da pirâmide \cite{James2011}.
+
+\begin{figure}[H]
+	\centering
+	\captionsetup{justification=centering,margin=2cm}
+	\includegraphics[scale=0.35]{capitulos/literatura/automatedtestingpyramid.eps}
+	\caption{Pirâmide ideal de testes}
+	\label{fig:automatedtestingpyramid}
+\end{figure}
+
+Sendo assim, é de extrema importancia a aplição de tipos de estratégia de testes como esta, para o desenvolvimento de software, garantindo que o que está sendo implementado seja conforme o esperado e de forma mais rápida e automática, envolvendo todo o time na qualidade final e em todas as fases do processo. 
+
+
+\section{Objetivos} 
+
+\subsection{Objetivo Geral}
+
+O objetivo geral deste trabalho é a implantação e cobertura de testes automatizados durante o desenvolvimento de uma aplicação que é desenvolvida com tecnologia de classificação de sinais de áudio para dar suporte a pessoas com deficiência auditiva ou surda.
+
+\subsection{Objetivo Específicos}
+Dentre os objetivos específicos deste trabalho, temos:  
+\begin{itemize}
+	\item Gerar conhecimento em torno de automação de testes, pesquisando e selecionando as melhores técnicas para esta proposta;
+	\item Gerar conhecimento nécessário para aplicar automação dos testes da ferramenta jMIR utilizada para construção da aplicação;
+	\item Investigar e selecionar as melhores técnicas e ferramentas aplicáveis na automação dos teste na aplicação escolhida;
+	\item Aplicar automação de testes em todo ciclo de vida no desenvolvimento de uma aplicação;	
+	\item Aplicar automação de testes para validar a integração da aplicação com a tecnologia JMIR, mais especificamente o uso do jAudio e ACE que são os componentes principais;
+	\item Realizar o levantamento de quantos testes foram automatizados em cada nível da pirâmide ideal de testes durante o desenvolvimento da aplicação;
+\end{itemize}
+
+\section{Organização do trabalho}
+
+Este trabalho é composto por mais quatro capítulos. No capítulo 2 é feita uma revisão bibliográfica sobre os principais conceitos que norteiam este trabalho. No capítulo 3, são apresentados os procedimentos metodológicos utilizados para atingir os objetivos desse trabalho. O capítulo 4 apresenta e contextualiza a aplicação que foi desenvolvida juntamente com este trabalho, o processo de testes realizado e os resultados da automação de testes durante o desenvolvimento. Por fim, o capítulo 5 mostra o impacto da automação e são feitas as considerações.

@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99d (TeX Live 2014)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: tcc.aux
+A level-1 auxiliary file: prefacios/capa/capa.aux
+A level-1 auxiliary file: prefacios/folha_rosto/folha_rosto.aux
+A level-1 auxiliary file: prefacios/resumo/resumo.aux
+A level-1 auxiliary file: prefacios/abstract/abstract.aux
+A level-1 auxiliary file: capitulos/introducao/introducao.aux
+A level-1 auxiliary file: capitulos/literatura/literatura.aux
+A level-1 auxiliary file: capitulos/las/analise_las.aux
+A level-1 auxiliary file: capitulos/validacao/validacao.aux
+A level-1 auxiliary file: capitulos/conclusoes/conclusoes.aux
+The style file: plain.bst
+Database file #1: ./bibliografia/referencias.bib
+Warning--to sort, need author or key in jmir
+Warning--to sort, need author or key in ace
+You've used 38 entries,
+            2118 wiz_defined-function locations,
+            708 strings with 10416 characters,
+and the built_in function-call counts, 9524 in all, are:
+= -- 914
+> -- 278
+< -- 7
++ -- 123
+- -- 80
+* -- 405
+:= -- 1518
+add.period$ -- 113
+call.type$ -- 38
+change.case$ -- 159
+chr.to.int$ -- 0
+cite$ -- 40
+duplicate$ -- 420
+empty$ -- 950
+format.name$ -- 80
+if$ -- 2117
+int.to.chr$ -- 0
+int.to.str$ -- 38
+missing$ -- 16
+newline$ -- 192
+num.names$ -- 72
+pop$ -- 294
+preamble$ -- 1
+purify$ -- 116
+quote$ -- 0
+skip$ -- 333
+stack$ -- 0
+substring$ -- 445
+swap$ -- 104
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 148
+warning$ -- 2
+while$ -- 89
+width$ -- 40
+write$ -- 385
+(There were 2 warnings)
