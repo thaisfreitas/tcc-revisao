@@ -12,47 +12,48 @@ A level-1 auxiliary file: capitulos/validacao/validacao.aux
 A level-1 auxiliary file: capitulos/conclusoes/conclusoes.aux
 The style file: plain.bst
 Database file #1: ./bibliografia/referencias.bib
+Warning--to sort, need author or key in Forrester2008
 Warning--to sort, need author or key in jmir
 Warning--to sort, need author or key in ace
-You've used 38 entries,
+You've used 39 entries,
             2118 wiz_defined-function locations,
-            708 strings with 10416 characters,
-and the built_in function-call counts, 9524 in all, are:
-= -- 914
-> -- 278
+            712 strings with 10601 characters,
+and the built_in function-call counts, 9681 in all, are:
+= -- 928
+> -- 279
 < -- 7
-+ -- 123
++ -- 124
 - -- 80
-* -- 405
-:= -- 1518
-add.period$ -- 113
-call.type$ -- 38
-change.case$ -- 159
+* -- 410
+:= -- 1534
+add.period$ -- 115
+call.type$ -- 39
+change.case$ -- 162
 chr.to.int$ -- 0
-cite$ -- 40
-duplicate$ -- 420
-empty$ -- 950
+cite$ -- 42
+duplicate$ -- 427
+empty$ -- 973
 format.name$ -- 80
-if$ -- 2117
+if$ -- 2156
 int.to.chr$ -- 0
-int.to.str$ -- 38
+int.to.str$ -- 39
 missing$ -- 16
-newline$ -- 192
+newline$ -- 196
 num.names$ -- 72
-pop$ -- 294
+pop$ -- 305
 preamble$ -- 1
-purify$ -- 116
+purify$ -- 118
 quote$ -- 0
-skip$ -- 333
+skip$ -- 339
 stack$ -- 0
-substring$ -- 445
-swap$ -- 104
+substring$ -- 450
+swap$ -- 105
 text.length$ -- 7
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 148
-warning$ -- 2
+type$ -- 152
+warning$ -- 3
 while$ -- 89
-width$ -- 40
-write$ -- 385
-(There were 2 warnings)
+width$ -- 41
+write$ -- 392
+(There were 3 warnings)

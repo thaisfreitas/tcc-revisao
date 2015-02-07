@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.11.3)  21 JAN 2015 23:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.11.3)  7 FEB 2015 16:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -698,6 +698,15 @@ LaTeX Warning: Label `fig:result-engajamento' multiply defined.
 
 LaTeX Warning: Label `fig:result-engajamento' multiply defined.
 
+
+LaTeX Warning: Label `fig:result-engajamento' multiply defined.
+
+
+LaTeX Warning: Label `fig:result-engajamento' multiply defined.
+
+
+LaTeX Warning: Label `fig:result-engajamento' multiply defined.
+
 ) (./capitulos/conclusoes/conclusoes.aux))
 \openout1 = `tcc.aux'.
 
@@ -808,11 +817,11 @@ LaTeX Info: Redefining \nameref on input line 76.
 
  (./prefacios/capa/capa.tex
 Package epstopdf Info: Source file: <prefacios/capa/logo-ufrpe.eps>
-(epstopdf)                    date: 2014-11-03 21:10:36
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 41608 bytes
 (epstopdf)             Output file: <prefacios/capa/logo-ufrpe-eps-converted-to
 .pdf>
-(epstopdf)                    date: 2014-11-11 19:05:28
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 11862 bytes
 (epstopdf)             Command: <repstopdf --outfile=prefacios/capa/logo-ufrpe-
 eps-converted-to.pdf prefacios/capa/logo-ufrpe.eps>
@@ -843,11 +852,11 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 Package epstopdf Info: Source file: <prefacios/capa/logo-bsi-presencial-v3-amp.
 eps>
-(epstopdf)                    date: 2014-11-03 21:10:36
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 147122 bytes
 (epstopdf)             Output file: <prefacios/capa/logo-bsi-presencial-v3-amp-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2014-11-11 19:05:30
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 28068 bytes
 (epstopdf)             Command: <repstopdf --outfile=prefacios/capa/logo-bsi-pr
 esencial-v3-amp-eps-converted-to.pdf prefacios/capa/logo-bsi-presencial-v3-amp.
@@ -944,19 +953,29 @@ Package babel Info: Redefining portuges shorthand "|
 \openout5 = `tcc.toc'.
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 94.
+(babel)             in language  on input line 93.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 93.
+ [5] (./tcc.lot)
+\tf@lot=\write6
+\openout6 = `tcc.lot'.
+
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 94.
- [5] (./tcc.lof
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 22.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 22.
+(babel)             in language  on input line 94.
  [6
 
+] (./tcc.lof
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 21.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 21.
+ [7
+
 ])
-\tf@lof=\write6
-\openout6 = `tcc.lof'.
+\tf@lof=\write7
+\openout7 = `tcc.lof'.
 
 
 No file tcc.nls.
@@ -964,7 +983,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 97.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 97.
-[7]
+[8]
 \openout2 = `capitulos/introducao/introducao.aux'.
 
  (./capitulos/introducao/introducao.tex
@@ -1008,11 +1027,11 @@ l.23 	\item C
 [2]
 Package epstopdf Info: Source file: <capitulos/literatura/iceCreamConAntiPatter
 n.eps>
-(epstopdf)                    date: 2015-01-11 20:16:03
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 7192616 bytes
 (epstopdf)             Output file: <capitulos/literatura/iceCreamConAntiPatter
 n-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-11 20:17:58
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 83414 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/literatura/iceCr
 eamConAntiPattern-eps-converted-to.pdf capitulos/literatura/iceCreamConAntiPatt
@@ -1020,7 +1039,7 @@ ern.eps>
 (epstopdf)             \includegraphics on input line 36.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/literatura/iceCreamConAntiPattern-eps-converted-to.pdf, id=387, 982.
+<capitulos/literatura/iceCreamConAntiPattern-eps-converted-to.pdf, id=399, 982.
 67125pt x 1212.53pt>
 File: capitulos/literatura/iceCreamConAntiPattern-eps-converted-to.pdf Graphic 
 file (type pdf)
@@ -1040,22 +1059,22 @@ been already used, duplicate ignored
 l.40 
       [3]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 42.
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 
+l.42 
       [4 <./capitulos/literatura/iceCreamConAntiPattern-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/literatura/automatedtestingpyram
 id.eps>
-(epstopdf)                    date: 2015-01-11 20:34:00
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 5976241 bytes
 (epstopdf)             Output file: <capitulos/literatura/automatedtestingpyram
 id-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-11 20:35:30
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 93309 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/literatura/autom
 atedtestingpyramid-eps-converted-to.pdf capitulos/literatura/automatedtestingpy
@@ -1063,7 +1082,7 @@ ramid.eps>
 (epstopdf)             \includegraphics on input line 48.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/literatura/automatedtestingpyramid-eps-converted-to.pdf, id=401, 117
+<capitulos/literatura/automatedtestingpyramid-eps-converted-to.pdf, id=413, 117
 5.39125pt x 842.14626pt>
 File: capitulos/literatura/automatedtestingpyramid-eps-converted-to.pdf Graphic
  file (type pdf)
@@ -1124,12 +1143,12 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 25.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 29.
+(babel)             in language  on input line 28.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 32.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 32.
+(babel)             in language  on input line 28.
  [9]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 29.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 33.
 Package babel Info: Redefining portuges shorthand "|
@@ -1181,119 +1200,119 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 124.
  [15]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 137.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 135.
+(babel)             in language  on input line 137.
  [16]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 136.
+(babel)             in language  on input line 138.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 152.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 155.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 155.
+(babel)             in language  on input line 152.
  [17]
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 154.
 Package epstopdf Info: Source file: <capitulos/literatura/userStory.eps>
-(epstopdf)                    date: 2015-01-17 14:08:28
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 3772968 bytes
 (epstopdf)             Output file: <capitulos/literatura/userStory-eps-convert
 ed-to.pdf>
-(epstopdf)                    date: 2015-01-17 14:09:46
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 42983 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/literatura/userS
 tory-eps-converted-to.pdf capitulos/literatura/userStory.eps>
-(epstopdf)             \includegraphics on input line 165.
+(epstopdf)             \includegraphics on input line 167.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/literatura/userStory-eps-converted-to.pdf, id=523, 465.74pt x 335.25
+<capitulos/literatura/userStory-eps-converted-to.pdf, id=537, 465.74pt x 335.25
 25pt>
 File: capitulos/literatura/userStory-eps-converted-to.pdf Graphic file (type pd
 f)
  <use capitulos/literatura/userStory-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/literatura/userStory-eps-converted-to.pdf us
-ed on input line 165.
+ed on input line 167.
 (pdftex.def)             Requested size: 163.01143pt x 117.34013pt.
 Package epstopdf Info: Source file: <capitulos/literatura/exemploUserStory.eps>
 
-(epstopdf)                    date: 2015-01-17 14:19:37
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 6343824 bytes
 (epstopdf)             Output file: <capitulos/literatura/exemploUserStory-eps-
 converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 14:20:43
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 106584 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/literatura/exemp
 loUserStory-eps-converted-to.pdf capitulos/literatura/exemploUserStory.eps>
-(epstopdf)             \includegraphics on input line 175.
+(epstopdf)             \includegraphics on input line 177.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/literatura/exemploUserStory-eps-converted-to.pdf, id=524, 785.93625p
+<capitulos/literatura/exemploUserStory-eps-converted-to.pdf, id=538, 785.93625p
 t x 334.24875pt>
 File: capitulos/literatura/exemploUserStory-eps-converted-to.pdf Graphic file (
 type pdf)
 
 <use capitulos/literatura/exemploUserStory-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/literatura/exemploUserStory-eps-converted-to
-.pdf used on input line 175.
+.pdf used on input line 177.
 (pdftex.def)             Requested size: 275.0818pt x 116.9888pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 181.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 179.
+(babel)             in language  on input line 181.
  [18 <./capitulos/literatura/userStory-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/literatura/modeloCenario.eps>
-(epstopdf)                    date: 2015-01-17 14:33:49
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 4478597 bytes
 (epstopdf)             Output file: <capitulos/literatura/modeloCenario-eps-con
 verted-to.pdf>
-(epstopdf)                    date: 2015-01-17 14:40:28
+(epstopdf)                    date: 2015-02-03 20:21:21
 (epstopdf)                    size: 79648 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/literatura/model
 oCenario-eps-converted-to.pdf capitulos/literatura/modeloCenario.eps>
-(epstopdf)             \includegraphics on input line 188.
+(epstopdf)             \includegraphics on input line 190.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/literatura/modeloCenario-eps-converted-to.pdf, id=534, 785.93625pt x
+<capitulos/literatura/modeloCenario-eps-converted-to.pdf, id=550, 785.93625pt x
  235.88126pt>
 File: capitulos/literatura/modeloCenario-eps-converted-to.pdf Graphic file (typ
 e pdf)
  <use capitulos/literatura/modeloCenario-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/literatura/modeloCenario-eps-converted-to.pd
-f used on input line 188.
+f used on input line 190.
 (pdftex.def)             Requested size: 275.0818pt x 82.55966pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 198.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 196.
+(babel)             in language  on input line 198.
 
 [19 <./capitulos/literatura/exemploUserStory-eps-converted-to.pdf> <./capitulos
 /literatura/modeloCenario-eps-converted-to.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 200.
+(babel)             in language  on input line 202.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 211.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 209.
+(babel)             in language  on input line 211.
  [20]
 Package epstopdf Info: Source file: <capitulos/literatura/exemoloCenario.eps>
-(epstopdf)                    date: 2015-01-17 14:36:37
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 4503367 bytes
 (epstopdf)             Output file: <capitulos/literatura/exemoloCenario-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2015-01-17 14:45:37
+(epstopdf)                    date: 2015-02-03 15:36:19
 (epstopdf)                    size: 90931 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/literatura/exemo
 loCenario-eps-converted-to.pdf capitulos/literatura/exemoloCenario.eps>
-(epstopdf)             \includegraphics on input line 217.
+(epstopdf)             \includegraphics on input line 219.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/literatura/exemoloCenario-eps-converted-to.pdf, id=554, 786.94pt x 2
+<capitulos/literatura/exemoloCenario-eps-converted-to.pdf, id=571, 786.94pt x 2
 36.885pt>
 File: capitulos/literatura/exemoloCenario-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use capitulos/literatura/exemoloCenario-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/literatura/exemoloCenario-eps-converted-to.p
-df used on input line 217.
+df used on input line 219.
 (pdftex.def)             Requested size: 275.43312pt x 82.91098pt.
 )
 Package babel Info: Redefining portuges shorthand "|
@@ -1369,11 +1388,11 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 17.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/arquiteturaDoS
 istemaDesenvolvido.eps>
-(epstopdf)                    date: 2015-01-17 16:09:22
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 402914 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/arquiteturaDoS
 istemaDesenvolvido-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:10:47
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 16085 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/arquiteturaDoSistemaDesenvolvido-eps-converted-to.pdf capitulos/validacao/fig
@@ -1382,7 +1401,7 @@ uras/arquiteturaDoSistemaDesenvolvido.eps>
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/arquiteturaDoSistemaDesenvolvido-eps-converted-to.
-pdf, id=592, 242.9075pt x 271.0125pt>
+pdf, id=610, 242.9075pt x 271.0125pt>
 File: capitulos/validacao/figuras/arquiteturaDoSistemaDesenvolvido-eps-converte
 d-to.pdf Graphic file (type pdf)
 
@@ -1392,19 +1411,19 @@ Package pdftex.def Info: capitulos/validacao/figuras/arquiteturaDoSistemaDesenv
 olvido-eps-converted-to.pdf used on input line 26.
 (pdftex.def)             Requested size: 194.32625pt x 216.81029pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 29.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 30.
+(babel)             in language  on input line 29.
  [27]
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 33.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/automationTest
 Process.eps>
-(epstopdf)                    date: 2015-01-17 16:17:03
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 178489 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/automationTest
 Process-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:18:34
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 14423 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/automationTestProcess-eps-converted-to.pdf capitulos/validacao/figuras/automa
@@ -1412,7 +1431,7 @@ tionTestProcess.eps>
 (epstopdf)             \includegraphics on input line 40.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/validacao/figuras/automationTestProcess-eps-converted-to.pdf, id=599
+<capitulos/validacao/figuras/automationTestProcess-eps-converted-to.pdf, id=617
 , 425.59pt x 67.25125pt>
 File: capitulos/validacao/figuras/automationTestProcess-eps-converted-to.pdf Gr
 aphic file (type pdf)
@@ -1422,9 +1441,9 @@ Package pdftex.def Info: capitulos/validacao/figuras/automationTestProcess-eps-
 converted-to.pdf used on input line 40.
 (pdftex.def)             Requested size: 340.47244pt x 53.80106pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 43.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 44.
+(babel)             in language  on input line 43.
 
 [28 <./capitulos/validacao/figuras/arquiteturaDoSistemaDesenvolvido-eps-convert
 ed-to.pdf>]
@@ -1440,11 +1459,11 @@ Package babel Info: Redefining portuges shorthand "|
 ]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/testesUnitEdIn
 tegra.eps>
-(epstopdf)                    date: 2015-01-17 16:21:02
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 516759 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/testesUnitEdIn
 tegra-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:32:20
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 16386 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/testesUnitEdIntegra-eps-converted-to.pdf capitulos/validacao/figuras/testesUn
@@ -1452,7 +1471,7 @@ itEdIntegra.eps>
 (epstopdf)             \includegraphics on input line 58.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/validacao/figuras/testesUnitEdIntegra-eps-converted-to.pdf, id=614, 
+<capitulos/validacao/figuras/testesUnitEdIntegra-eps-converted-to.pdf, id=632, 
 332.24126pt x 254.9525pt>
 File: capitulos/validacao/figuras/testesUnitEdIntegra-eps-converted-to.pdf Grap
 hic file (type pdf)
@@ -1461,519 +1480,589 @@ hic file (type pdf)
 Package pdftex.def Info: capitulos/validacao/figuras/testesUnitEdIntegra-eps-co
 nverted-to.pdf used on input line 58.
 (pdftex.def)             Requested size: 265.79335pt x 203.96225pt.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 70.
-Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 70.
-
-[30 <./capitulos/validacao/figuras/testesUnitEdIntegra-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/testeConstruto
 rJAudioCommunicator.eps>
-(epstopdf)                    date: 2015-01-17 16:27:31
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 1383982 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/testeConstruto
 rJAudioCommunicator-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:50:10
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 32688 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/testeConstrutorJAudioCommunicator-eps-converted-to.pdf capitulos/validacao/fi
 guras/testeConstrutorJAudioCommunicator.eps>
-(epstopdf)             \includegraphics on input line 75.
+(epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/testeConstrutorJAudioCommunicator-eps-converted-to
-.pdf, id=622, 669.50125pt x 85.31876pt>
+.pdf, id=633, 669.50125pt x 85.31876pt>
 File: capitulos/validacao/figuras/testeConstrutorJAudioCommunicator-eps-convert
 ed-to.pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/testeConstrutorJAudioCommunicator-eps-converte
 d-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/testeConstrutorJAudioCommu
-nicator-eps-converted-to.pdf used on input line 75.
+nicator-eps-converted-to.pdf used on input line 73.
 (pdftex.def)             Requested size: 435.17065pt x 55.45651pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 76.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 76.
+ [30 <./capitulos/validacao/figuras/testesUnitEdIntegra-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/testeUniJaudio
 Communicator.eps>
-(epstopdf)                    date: 2015-01-17 16:30:22
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 2249994 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/testeUniJaudio
 Communicator-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:32:23
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 54580 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/testeUniJaudioCommunicator-eps-converted-to.pdf capitulos/validacao/figuras/t
 esteUniJaudioCommunicator.eps>
-(epstopdf)             \includegraphics on input line 85.
+(epstopdf)             \includegraphics on input line 82.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/testeUniJaudioCommunicator-eps-converted-to.pdf, i
-d=623, 671.50874pt x 138.5175pt>
+d=641, 671.50874pt x 138.5175pt>
 File: capitulos/validacao/figuras/testeUniJaudioCommunicator-eps-converted-to.p
 df Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/testeUniJaudioCommunicator-eps-converted-to.pd
 f>
 Package pdftex.def Info: capitulos/validacao/figuras/testeUniJaudioCommunicator
--eps-converted-to.pdf used on input line 85.
+-eps-converted-to.pdf used on input line 82.
 (pdftex.def)             Requested size: 436.47551pt x 90.0353pt.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/testesIntegrac
 aoJAudioCommunicator.eps>
-(epstopdf)                    date: 2015-01-17 16:37:16
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 3945676 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/testesIntegrac
 aoJAudioCommunicator-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:39:21
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 103334 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/testesIntegracaoJAudioCommunicator-eps-converted-to.pdf capitulos/validacao/f
 iguras/testesIntegracaoJAudioCommunicator.eps>
-(epstopdf)             \includegraphics on input line 97.
+(epstopdf)             \includegraphics on input line 94.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/testesIntegracaoJAudioCommunicator-eps-converted-t
-o.pdf, id=624, 669.50125pt x 243.91125pt>
+o.pdf, id=642, 669.50125pt x 243.91125pt>
 File: capitulos/validacao/figuras/testesIntegracaoJAudioCommunicator-eps-conver
 ted-to.pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/testesIntegracaoJAudioCommunicator-eps-convert
 ed-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/testesIntegracaoJAudioComm
-unicator-eps-converted-to.pdf used on input line 97.
+unicator-eps-converted-to.pdf used on input line 94.
 (pdftex.def)             Requested size: 435.17065pt x 158.54042pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 98.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 101.
+(babel)             in language  on input line 98.
  [31 <./capitulos/validacao/figuras/testeConstrutorJAudioCommunicator-eps-conve
 rted-to.pdf> <./capitulos/validacao/figuras/testeUniJaudioCommunicator-eps-conv
 erted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/testeConstruto
 rACECommunicator.eps>
-(epstopdf)                    date: 2015-01-17 16:42:55
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 1383982 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/testeConstruto
 rACECommunicator-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:50:12
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 29061 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/testeConstrutorACECommunicator-eps-converted-to.pdf capitulos/validacao/figur
 as/testeConstrutorACECommunicator.eps>
-(epstopdf)             \includegraphics on input line 111.
+(epstopdf)             \includegraphics on input line 108.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/testeConstrutorACECommunicator-eps-converted-to.pd
-f, id=635, 669.50125pt x 85.31876pt>
+f, id=654, 669.50125pt x 85.31876pt>
 File: capitulos/validacao/figuras/testeConstrutorACECommunicator-eps-converted-
 to.pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/testeConstrutorACECommunicator-eps-converted-t
 o.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/testeConstrutorACECommunic
-ator-eps-converted-to.pdf used on input line 111.
+ator-eps-converted-to.pdf used on input line 108.
 (pdftex.def)             Requested size: 435.17065pt x 55.45651pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 116.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 119.
+(babel)             in language  on input line 116.
  [32 <./capitulos/validacao/figuras/testesIntegracaoJAudioCommunicator-eps-conv
 erted-to.pdf> <./capitulos/validacao/figuras/testeConstrutorACECommunicator-eps
 -converted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/testeUniACECom
 municator.eps>
-(epstopdf)                    date: 2015-01-17 16:43:57
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 6377660 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/testeUniACECom
 municator-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:50:14
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 147224 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/testeUniACECommunicator-eps-converted-to.pdf capitulos/validacao/figuras/test
 eUniACECommunicator.eps>
-(epstopdf)             \includegraphics on input line 123.
+(epstopdf)             \includegraphics on input line 120.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/testeUniACECommunicator-eps-converted-to.pdf, id=6
-47, 669.50125pt x 394.47375pt>
+65, 669.50125pt x 394.47375pt>
 File: capitulos/validacao/figuras/testeUniACECommunicator-eps-converted-to.pdf 
 Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/testeUniACECommunicator-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/testeUniACECommunicator-ep
-s-converted-to.pdf used on input line 123.
+s-converted-to.pdf used on input line 120.
 (pdftex.def)             Requested size: 435.17065pt x 256.40489pt.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/testesIntegrac
 aoACECommunicator.eps>
-(epstopdf)                    date: 2015-01-17 16:52:39
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 2563746 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/testesIntegrac
 aoACECommunicator-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-17 16:54:01
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 139720 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/testesIntegracaoACECommunicator-eps-converted-to.pdf capitulos/validacao/figu
 ras/testesIntegracaoACECommunicator.eps>
-(epstopdf)             \includegraphics on input line 135.
+(epstopdf)             \includegraphics on input line 132.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/testesIntegracaoACECommunicator-eps-converted-to.p
-df, id=648, 682.55pt x 621.32124pt>
+df, id=666, 682.55pt x 621.32124pt>
 File: capitulos/validacao/figuras/testesIntegracaoACECommunicator-eps-converted
 -to.pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/testesIntegracaoACECommunicator-eps-converted-
 to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/testesIntegracaoACECommuni
-cator-eps-converted-to.pdf used on input line 135.
+cator-eps-converted-to.pdf used on input line 132.
 (pdftex.def)             Requested size: 443.65225pt x 403.85402pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 136.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 139.
+(babel)             in language  on input line 136.
  [33 <./capitulos/validacao/figuras/testeUniACECommunicator-eps-converted-to.pd
 f>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/exemploTesteIm
 plementado.eps>
-(epstopdf)                    date: 2015-01-21 22:15:35
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 4813920 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/exemploTesteIm
 plementado-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-21 22:23:29
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 85919 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/exemploTesteImplementado-eps-converted-to.pdf capitulos/validacao/figuras/exe
 mploTesteImplementado.eps>
-(epstopdf)             \includegraphics on input line 147.
+(epstopdf)             \includegraphics on input line 144.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/exemploTesteImplementado-eps-converted-to.pdf, id=
-656, 863.225pt x 230.8625pt>
+674, 863.225pt x 230.8625pt>
 File: capitulos/validacao/figuras/exemploTesteImplementado-eps-converted-to.pdf
  Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/exemploTesteImplementado-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/exemploTesteImplementado-e
-ps-converted-to.pdf used on input line 147.
+ps-converted-to.pdf used on input line 144.
 (pdftex.def)             Requested size: 474.77522pt x 126.97476pt.
 
-Overfull \hbox (5.30476pt too wide) in paragraph at lines 147--148
+Overfull \hbox (5.30476pt too wide) in paragraph at lines 144--145
  [][] 
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 151.
+(babel)             in language  on input line 148.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 151.
+(babel)             in language  on input line 148.
 [34 <./capitulos/validacao/figuras/testesIntegracaoACECommunicator-eps-converte
 d-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/outroTesteImpl
 ementado.eps>
-(epstopdf)                    date: 2015-01-21 22:18:24
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 3753134 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/outroTesteImpl
 ementado-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-21 22:23:31
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 66525 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/outroTesteImplementado-eps-converted-to.pdf capitulos/validacao/figuras/outro
 TesteImplementado.eps>
-(epstopdf)             \includegraphics on input line 157.
+(epstopdf)             \includegraphics on input line 154.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/validacao/figuras/outroTesteImplementado-eps-converted-to.pdf, id=66
-4, 754.82pt x 205.76875pt>
+<capitulos/validacao/figuras/outroTesteImplementado-eps-converted-to.pdf, id=68
+2, 754.82pt x 205.76875pt>
 File: capitulos/validacao/figuras/outroTesteImplementado-eps-converted-to.pdf G
 raphic file (type pdf)
 
 <use capitulos/validacao/figuras/outroTesteImplementado-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/outroTesteImplementado-eps
--converted-to.pdf used on input line 157.
+-converted-to.pdf used on input line 154.
 (pdftex.def)             Requested size: 415.1523pt x 113.17316pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 164.
+(babel)             in language  on input line 161.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/interfaceDaApl
 icacao.eps>
-(epstopdf)                    date: 2015-01-18 14:04:25
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 3551867 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/interfaceDaApl
 icacao-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-18 14:13:20
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 98291 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/interfaceDaAplicacao-eps-converted-to.pdf capitulos/validacao/figuras/interfa
 ceDaAplicacao.eps>
-(epstopdf)             \includegraphics on input line 172.
+(epstopdf)             \includegraphics on input line 168.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/validacao/figuras/interfaceDaAplicacao-eps-converted-to.pdf, id=665,
+<capitulos/validacao/figuras/interfaceDaAplicacao-eps-converted-to.pdf, id=683,
  281.05pt x 522.95375pt>
 File: capitulos/validacao/figuras/interfaceDaAplicacao-eps-converted-to.pdf Gra
 phic file (type pdf)
 
 <use capitulos/validacao/figuras/interfaceDaAplicacao-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/interfaceDaAplicacao-eps-c
-onverted-to.pdf used on input line 172.
+onverted-to.pdf used on input line 168.
 (pdftex.def)             Requested size: 182.68033pt x 339.91591pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 172.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 176.
+(babel)             in language  on input line 172.
 
 [35 <./capitulos/validacao/figuras/exemploTesteImplementado-eps-converted-to.pd
 f> <./capitulos/validacao/figuras/outroTesteImplementado-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/estoriaDoUsuar
 ioDaAplicacao.eps>
-(epstopdf)                    date: 2015-01-18 14:09:08
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 4007879 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/estoriaDoUsuar
 ioDaAplicacao-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-18 14:13:22
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 54720 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/estoriaDoUsuarioDaAplicacao-eps-converted-to.pdf capitulos/validacao/figuras/
 estoriaDoUsuarioDaAplicacao.eps>
-(epstopdf)             \includegraphics on input line 183.
+(epstopdf)             \includegraphics on input line 179.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/estoriaDoUsuarioDaAplicacao-eps-converted-to.pdf, 
-id=676, 688.5725pt x 240.9pt>
+id=694, 688.5725pt x 240.9pt>
 File: capitulos/validacao/figuras/estoriaDoUsuarioDaAplicacao-eps-converted-to.
 pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/estoriaDoUsuarioDaAplicacao-eps-converted-to.p
 df>
 Package pdftex.def Info: capitulos/validacao/figuras/estoriaDoUsuarioDaAplicaca
-o-eps-converted-to.pdf used on input line 183.
+o-eps-converted-to.pdf used on input line 179.
 (pdftex.def)             Requested size: 447.5668pt x 156.58313pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 185.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 189.
+(babel)             in language  on input line 185.
  [36 <./capitulos/validacao/figuras/interfaceDaAplicacao-eps-converted-to.pdf> 
 <./capitulos/validacao/figuras/estoriaDoUsuarioDaAplicacao-eps-converted-to.pdf
 >]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/arquiteturaDeB
 ddComCucumber.eps>
-(epstopdf)                    date: 2015-01-18 14:11:52
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 437431 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/arquiteturaDeB
 ddComCucumber-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-18 14:13:24
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 17461 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/arquiteturaDeBddComCucumber-eps-converted-to.pdf capitulos/validacao/figuras/
 arquiteturaDeBddComCucumber.eps>
-(epstopdf)             \includegraphics on input line 193.
+(epstopdf)             \includegraphics on input line 189.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/arquiteturaDeBddComCucumber-eps-converted-to.pdf, 
-id=687, 265.99374pt x 269.005pt>
+id=705, 265.99374pt x 269.005pt>
 File: capitulos/validacao/figuras/arquiteturaDeBddComCucumber-eps-converted-to.
 pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/arquiteturaDeBddComCucumber-eps-converted-to.p
 df>
 Package pdftex.def Info: capitulos/validacao/figuras/arquiteturaDeBddComCucumbe
-r-eps-converted-to.pdf used on input line 193.
+r-eps-converted-to.pdf used on input line 189.
 (pdftex.def)             Requested size: 172.89388pt x 174.85117pt.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/cenariosDoBDD.
 eps>
-(epstopdf)                    date: 2015-01-18 14:15:06
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 1150831 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/cenariosDoBDD-
 eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-19 09:51:53
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 40456 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/cenariosDoBDD-eps-converted-to.pdf capitulos/validacao/figuras/cenariosDoBDD.
 eps>
-(epstopdf)             \includegraphics on input line 206.
+(epstopdf)             \includegraphics on input line 202.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/validacao/figuras/cenariosDoBDD-eps-converted-to.pdf, id=688, 478.78
+<capitulos/validacao/figuras/cenariosDoBDD-eps-converted-to.pdf, id=706, 478.78
 876pt x 396.48125pt>
 File: capitulos/validacao/figuras/cenariosDoBDD-eps-converted-to.pdf Graphic fi
 le (type pdf)
 
 <use capitulos/validacao/figuras/cenariosDoBDD-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/cenariosDoBDD-eps-converte
-d-to.pdf used on input line 206.
+d-to.pdf used on input line 202.
 (pdftex.def)             Requested size: 311.209pt x 257.70975pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 210.
+(babel)             in language  on input line 206.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 210.
+(babel)             in language  on input line 206.
  [37 <./capitulos/validacao/figuras/arquiteturaDeBddComCucumber-eps-converted-t
 o.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/implementacaoD
 eUmStep1.eps>
-(epstopdf)                    date: 2015-01-18 14:17:19
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 6907300 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/implementacaoD
 eUmStep1-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-19 09:51:56
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 143619 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/implementacaoDeUmStep1-eps-converted-to.pdf capitulos/validacao/figuras/imple
 mentacaoDeUmStep1.eps>
-(epstopdf)             \includegraphics on input line 217.
+(epstopdf)             \includegraphics on input line 213.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/validacao/figuras/implementacaoDeUmStep1-eps-converted-to.pdf, id=69
+<capitulos/validacao/figuras/implementacaoDeUmStep1-eps-converted-to.pdf, id=71
 6, 678.535pt x 421.575pt>
 File: capitulos/validacao/figuras/implementacaoDeUmStep1-eps-converted-to.pdf G
 raphic file (type pdf)
 
 <use capitulos/validacao/figuras/implementacaoDeUmStep1-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/implementacaoDeUmStep1-eps
--converted-to.pdf used on input line 217.
+-converted-to.pdf used on input line 213.
 (pdftex.def)             Requested size: 441.04253pt x 274.0205pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 217.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 217.
 
 [38 <./capitulos/validacao/figuras/cenariosDoBDD-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/execucaoDoCucu
 mberEtudoVerde.eps>
-(epstopdf)                    date: 2015-01-19 10:02:55
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 2423612 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/execucaoDoCucu
 mberEtudoVerde-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-19 10:12:51
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 207218 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/execucaoDoCucumberEtudoVerde-eps-converted-to.pdf capitulos/validacao/figuras
 /execucaoDoCucumberEtudoVerde.eps>
-(epstopdf)             \includegraphics on input line 227.
+(epstopdf)             \includegraphics on input line 223.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/execucaoDoCucumberEtudoVerde-eps-converted-to.pdf,
- id=705, 572.1375pt x 700.6175pt>
+ id=724, 572.1375pt x 700.6175pt>
 File: capitulos/validacao/figuras/execucaoDoCucumberEtudoVerde-eps-converted-to
 .pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/execucaoDoCucumberEtudoVerde-eps-converted-to.
 pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/execucaoDoCucumberEtudoVer
-de-eps-converted-to.pdf used on input line 227.
+de-eps-converted-to.pdf used on input line 223.
 (pdftex.def)             Requested size: 371.88496pt x 455.39598pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
+(babel)             in language  on input line 227.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 231.
+(babel)             in language  on input line 227.
  [39 <./capitulos/validacao/figuras/implementacaoDeUmStep1-eps-converted-to.pdf
 >]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/execucaoDoCucu
 mberComUmErro.eps>
-(epstopdf)                    date: 2015-01-19 10:08:58
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 2468716 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/execucaoDoCucu
 mberComUmErro-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-19 10:12:53
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 177820 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/execucaoDoCucumberComUmErro-eps-converted-to.pdf capitulos/validacao/figuras/
 execucaoDoCucumberComUmErro.eps>
-(epstopdf)             \includegraphics on input line 237.
+(epstopdf)             \includegraphics on input line 236.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/execucaoDoCucumberComUmErro-eps-converted-to.pdf, 
-id=714, 598.235pt x 170.6375pt>
+id=732, 598.235pt x 170.6375pt>
 File: capitulos/validacao/figuras/execucaoDoCucumberComUmErro-eps-converted-to.
 pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/execucaoDoCucumberComUmErro-eps-converted-to.p
 df>
 Package pdftex.def Info: capitulos/validacao/figuras/execucaoDoCucumberComUmErr
-o-eps-converted-to.pdf used on input line 237.
+o-eps-converted-to.pdf used on input line 236.
 (pdftex.def)             Requested size: 388.84814pt x 110.91304pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 241.
+(babel)             in language  on input line 240.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 241.
+(babel)             in language  on input line 240.
  [40 <./capitulos/validacao/figuras/execucaoDoCucumberEtudoVerde-eps-converted-
 to.pdf>]
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/quantidadeDeEr
 rosQpassaramOUn.eps>
-(epstopdf)                    date: 2015-01-19 10:14:37
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 158525 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/quantidadeDeEr
 rosQpassaramOUn-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-19 10:20:46
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 14986 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/quantidadeDeErrosQpassaramOUn-eps-converted-to.pdf capitulos/validacao/figura
 s/quantidadeDeErrosQpassaramOUn.eps>
-(epstopdf)             \includegraphics on input line 247.
+(epstopdf)             \includegraphics on input line 246.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/quantidadeDeErrosQpassaramOUn-eps-converted-to.pdf
-, id=722, 336.25626pt x 75.28125pt>
+, id=740, 336.25626pt x 75.28125pt>
 File: capitulos/validacao/figuras/quantidadeDeErrosQpassaramOUn-eps-converted-t
 o.pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/quantidadeDeErrosQpassaramOUn-eps-converted-to
 .pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/quantidadeDeErrosQpassaram
-OUn-eps-converted-to.pdf used on input line 247.
+OUn-eps-converted-to.pdf used on input line 246.
 (pdftex.def)             Requested size: 218.56396pt x 48.93222pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 252.
+(babel)             in language  on input line 251.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/businesstechno
 logyautomatedtestingpyramid.eps>
-(epstopdf)                    date: 2015-01-19 10:17:43
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 5976241 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/businesstechno
 logyautomatedtestingpyramid-eps-converted-to.pdf>
-(epstopdf)                    date: 2015-01-19 10:20:49
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 87560 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/businesstechnologyautomatedtestingpyramid-eps-converted-to.pdf capitulos/vali
 dacao/figuras/businesstechnologyautomatedtestingpyramid.eps>
-(epstopdf)             \includegraphics on input line 258.
+(epstopdf)             \includegraphics on input line 257.
 Package epstopdf Info: Output file is already uptodate.
 
 <capitulos/validacao/figuras/businesstechnologyautomatedtestingpyramid-eps-conv
-erted-to.pdf, id=724, 1175.39125pt x 842.14626pt>
+erted-to.pdf, id=742, 1175.39125pt x 842.14626pt>
 File: capitulos/validacao/figuras/businesstechnologyautomatedtestingpyramid-eps
 -converted-to.pdf Graphic file (type pdf)
 
 <use capitulos/validacao/figuras/businesstechnologyautomatedtestingpyramid-eps-
 converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/businesstechnologyautomate
-dtestingpyramid-eps-converted-to.pdf used on input line 258.
+dtestingpyramid-eps-converted-to.pdf used on input line 257.
 (pdftex.def)             Requested size: 411.39311pt x 294.7556pt.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 261.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 262.
+(babel)             in language  on input line 261.
  [41 <./capitulos/validacao/figuras/execucaoDoCucumberComUmErro-eps-converted-t
 o.pdf> <./capitulos/validacao/figuras/quantidadeDeErrosQpassaramOUn-eps-convert
 ed-to.pdf>]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 268.
+(babel)             in language  on input line 267.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 268.
+(babel)             in language  on input line 267.
  [42 <./capitulos/validacao/figuras/businesstechnologyautomatedtestingpyramid-e
 ps-converted-to.pdf>]
+Package epstopdf Info: Source file: <capitulos/validacao/figuras/dadosObj1.eps>
+
+(epstopdf)                    date: 2015-02-07 15:40:19
+(epstopdf)                    size: 3431932 bytes
+(epstopdf)             Output file: <capitulos/validacao/figuras/dadosObj1-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2015-02-07 15:44:27
+(epstopdf)                    size: 94999 bytes
+(epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
+s/dadosObj1-eps-converted-to.pdf capitulos/validacao/figuras/dadosObj1.eps>
+(epstopdf)             \includegraphics on input line 273.
+Package epstopdf Info: Output file is already uptodate.
+
+<capitulos/validacao/figuras/dadosObj1-eps-converted-to.pdf, id=760, 508.90125p
+t x 279.0425pt>
+File: capitulos/validacao/figuras/dadosObj1-eps-converted-to.pdf Graphic file (
+type pdf)
+
+<use capitulos/validacao/figuras/dadosObj1-eps-converted-to.pdf>
+Package pdftex.def Info: capitulos/validacao/figuras/dadosObj1-eps-converted-to
+.pdf used on input line 273.
+(pdftex.def)             Requested size: 254.45pt x 139.5209pt.
+Package epstopdf Info: Source file: <capitulos/validacao/figuras/dadosObj15.eps
+>
+(epstopdf)                    date: 2015-02-07 15:46:29
+(epstopdf)                    size: 1561747 bytes
+(epstopdf)             Output file: <capitulos/validacao/figuras/dadosObj15-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2015-02-07 15:50:40
+(epstopdf)                    size: 34501 bytes
+(epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
+s/dadosObj15-eps-converted-to.pdf capitulos/validacao/figuras/dadosObj15.eps>
+(epstopdf)             \includegraphics on input line 283.
+Package epstopdf Info: Output file is already uptodate.
+
+<capitulos/validacao/figuras/dadosObj15-eps-converted-to.pdf, id=761, 509.905pt
+ x 126.4725pt>
+File: capitulos/validacao/figuras/dadosObj15-eps-converted-to.pdf Graphic file 
+(type pdf)
+
+<use capitulos/validacao/figuras/dadosObj15-eps-converted-to.pdf>
+Package pdftex.def Info: capitulos/validacao/figuras/dadosObj15-eps-converted-t
+o.pdf used on input line 283.
+(pdftex.def)             Requested size: 280.44861pt x 69.56007pt.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 289.
+Package babel Info: Redefining portuges shorthand "|
+(babel)             in language  on input line 289.
+ [43 <./capitulos/validacao/figuras/dadosObj1-eps-converted-to.pdf> <./capitulo
+s/validacao/figuras/dadosObj15-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <capitulos/validacao/figuras/dadosObj2.eps>
+
+(epstopdf)                    date: 2015-02-07 15:40:30
+(epstopdf)                    size: 2209110 bytes
+(epstopdf)             Output file: <capitulos/validacao/figuras/dadosObj2-eps-
+converted-to.pdf>
+(epstopdf)                    date: 2015-02-07 15:57:01
+(epstopdf)                    size: 43851 bytes
+(epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
+s/dadosObj2-eps-converted-to.pdf capitulos/validacao/figuras/dadosObj2.eps>
+(epstopdf)             \includegraphics on input line 293.
+Package epstopdf Info: Output file is already uptodate.
+
+<capitulos/validacao/figuras/dadosObj2-eps-converted-to.pdf, id=773, 516.93124p
+t x 176.66pt>
+File: capitulos/validacao/figuras/dadosObj2-eps-converted-to.pdf Graphic file (
+type pdf)
+ <use capitulos/validacao/figuras/dadosObj2-eps-converted-to.pdf>
+Package pdftex.def Info: capitulos/validacao/figuras/dadosObj2-eps-converted-to
+.pdf used on input line 293.
+(pdftex.def)             Requested size: 284.31306pt x 97.16328pt.
 Package epstopdf Info: Source file: <capitulos/validacao/figuras/pyramid.eps>
-(epstopdf)                    date: 2015-01-19 21:24:08
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 5639816 bytes
 (epstopdf)             Output file: <capitulos/validacao/figuras/pyramid-eps-co
 nverted-to.pdf>
-(epstopdf)                    date: 2015-01-19 21:26:04
+(epstopdf)                    date: 2015-02-03 15:36:20
 (epstopdf)                    size: 44251 bytes
 (epstopdf)             Command: <repstopdf --outfile=capitulos/validacao/figura
 s/pyramid-eps-converted-to.pdf capitulos/validacao/figuras/pyramid.eps>
-(epstopdf)             \includegraphics on input line 274.
+(epstopdf)             \includegraphics on input line 303.
 Package epstopdf Info: Output file is already uptodate.
 
-<capitulos/validacao/figuras/pyramid-eps-converted-to.pdf, id=742, 1136.245pt x
+<capitulos/validacao/figuras/pyramid-eps-converted-to.pdf, id=774, 1136.245pt x
  822.07124pt>
 File: capitulos/validacao/figuras/pyramid-eps-converted-to.pdf Graphic file (ty
 pe pdf)
  <use capitulos/validacao/figuras/pyramid-eps-converted-to.pdf>
 Package pdftex.def Info: capitulos/validacao/figuras/pyramid-eps-converted-to.p
-df used on input line 274.
+df used on input line 303.
 (pdftex.def)             Requested size: 397.6917pt x 287.72923pt.
 )
 Package babel Info: Redefining portuges shorthand "|
@@ -1981,7 +2070,8 @@ Package babel Info: Redefining portuges shorthand "|
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 131.
 
-[43 <./capitulos/validacao/figuras/pyramid-eps-converted-to.pdf>]
+[44 <./capitulos/validacao/figuras/dadosObj2-eps-converted-to.pdf> <./capitulos
+/validacao/figuras/pyramid-eps-converted-to.pdf>]
 \openout2 = `capitulos/conclusoes/conclusoes.aux'.
 
 
@@ -1995,78 +2085,84 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 14.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 14.
-[44
+[45
 
 
 
 ]
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 16.
+(babel)             in language  on input line 17.
 )
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 132.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 132.
- [45] (./tcc.bbl
+ [46] (./tcc.bbl
 Underfull \hbox (badness 1831) in paragraph at lines 4--7
 []\OT1/cmr/m/n/12 Ace.  Dis-pon^^S^^Pvel em: []$\OT1/cmtt/m/n/12 http : / / jmi
 r . sourceforge . net / ACE . html$[]\OT1/cmr/m/n/12 . Aces-sado em
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--45
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
+\OT1/cmtt/m/n/12 2008 + Automated + Testing + Software / fulltext / -[] / E-[]R
+ES47064$[]\OT1/cmr/m/n/12 . Aces-sado em
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--51
 \OT1/cmtt/m/n/12 / / jamescrisp . org / 2011 / 05 / 30 / automated-[]testing-[]
 and-[]the-[]test-[]pyramid/$[]\OT1/cmr/m/n/12 .
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 53.
+(babel)             in language  on input line 52.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 53.
-[46
+(babel)             in language  on input line 52.
+[47
 
 
 ]
-Underfull \hbox (badness 1533) in paragraph at lines 91--94
+Underfull \hbox (badness 1533) in paragraph at lines 97--100
 []\OT1/cmr/m/n/12 JBehave.org.  Jbehave.  Dis-pon^^S^^Pvel em: []$\OT1/cmtt/m/n
 /12 http : / / jbehave . org/$[]\OT1/cmr/m/n/12 . Aces-sado em
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--117
+Underfull \hbox (badness 10000) in paragraph at lines 118--123
 \OT1/cmtt/m/n/12 / / www . tutorialspoint . com / software _ testing / software
  _ testing _ overview . htm$[]\OT1/cmr/m/n/12 .
  []
 
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
+(babel)             in language  on input line 123.
 Package babel Info: Redefining portuges shorthand "|
-(babel)             in language  on input line 124.
-[47]
-Underfull \hbox (badness 10000) in paragraph at lines 151--155
+(babel)             in language  on input line 123.
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 157--161
 []\OT1/cmr/m/n/12 D. North.  In-tro-du-cing bdd.  Dis-pon^^S^^Pvel em: []$\OT1/
 cmtt/m/n/12 http : / / dannorth . net /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--176
+Underfull \hbox (badness 10000) in paragraph at lines 176--182
 []\OT1/cmr/m/n/12 O por-tal de in-fro-ma-cao para pes-soa com de-fi-ci-en-cia. 
  Re-sul-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--176
+Underfull \hbox (badness 10000) in paragraph at lines 176--182
 \OT1/cmr/m/n/12 ta-dos do censo 2010 feito pelo ibge so-bre pes-soas com de-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--176
+Underfull \hbox (badness 10000) in paragraph at lines 176--182
 \OT1/cmr/m/n/12 fici[]Encia.  Dis-pon^^S^^Pvel em: []$\OT1/cmtt/m/n/12 http : /
  / www . deficientefisico . com /
  []
 
 
-Overfull \hbox (1.37114pt too wide) in paragraph at lines 170--176
+Overfull \hbox (1.37114pt too wide) in paragraph at lines 176--182
 \OT1/cmtt/m/n/12 resultados-[]do-[]censo-[]2010-[]feito-[]pelo-[]ibge-[]sobre-[
 ]pessoas-[]com-[]deficiencia/$[]\OT1/cmr/m/n/12 .
  []
@@ -2075,20 +2171,20 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 182.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 182.
-[48]
-Underfull \hbox (badness 1694) in paragraph at lines 193--199
+[49]
+Underfull \hbox (badness 1694) in paragraph at lines 199--205
 []\OT1/cmr/m/n/12 Alister Scott.  In-tro-du-cing the soft-ware tes-ting ice-cre
 am cone (anti-pattern),
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 193--199
+Underfull \hbox (badness 10000) in paragraph at lines 199--205
 \OT1/cmr/m/n/12 Ja-nu-ary 2012.  Dis-pon^^S^^Pvel em: []$\OT1/cmtt/m/n/12 http 
 : / / watirmelon . com / 2012 / 01 / 31 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--206
+Underfull \hbox (badness 10000) in paragraph at lines 207--212
 \OT1/cmtt/m/n/12 nac . softex . br / pluginfile . php / 602 / mod _ resource / 
 content / 2 / Aula % 202 . pdf$[]\OT1/cmr/m/n/12 .
  []
@@ -2099,7 +2195,7 @@ Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 145.
 Package babel Info: Redefining portuges shorthand "|
 (babel)             in language  on input line 145.
- [49]
+ [50]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (./tcc.aux (./prefacios/capa/capa.aux)
 (./prefacios/folha_rosto/folha_rosto.aux) (./prefacios/resumo/resumo.aux)
@@ -2117,10 +2213,10 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
- 9217 strings out of 493117
- 142807 string characters out of 6135433
- 230895 words of memory out of 5000000
- 12234 multiletter control sequences out of 15000+600000
+ 9244 strings out of 493117
+ 143736 string characters out of 6135433
+ 231931 words of memory out of 5000000
+ 12248 multiletter control sequences out of 15000+600000
  11550 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  36i,12n,50p,1460b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2131,10 +2227,10 @@ sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></us
 r/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tcc.pdf (60 pages, 2267919 bytes).
+Output written on tcc.pdf (62 pages, 2440831 bytes).
 PDF statistics:
- 872 PDF objects out of 1000 (max. 8388607)
- 737 compressed objects within 8 object streams
- 175 named destinations out of 1000 (max. 500000)
- 514 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 912 PDF objects out of 1000 (max. 8388607)
+ 769 compressed objects within 8 object streams
+ 182 named destinations out of 1000 (max. 500000)
+ 529 words of extra memory for PDF output out of 10000 (max. 10000000)
 

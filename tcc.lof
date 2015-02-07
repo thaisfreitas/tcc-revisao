@@ -1,33 +1,27 @@
 \select@language {brazil}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {1.1}{\ignorespaces Pir\IeC {\^a}mide de testes anti-padr\IeC {\~a}o\relax }}{4}{figure.caption.7}
-\contentsline {figure}{\numberline {1.2}{\ignorespaces Pir\IeC {\^a}mide ideal de testes\relax }}{5}{figure.caption.8}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Pir\IeC {\^a}mide de testes anti-padr\IeC {\~a}o\relax }}{4}{figure.caption.8}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Pir\IeC {\^a}mide ideal de testes\relax }}{5}{figure.caption.9}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Modelo da estrutura de uma est\IeC {\'o}ria do usu\IeC {\'a}rio\relax }}{18}{figure.caption.9}
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Exemplo de escrita de uma est\IeC {\'o}ria do usu\IeC {\'a}rio\relax }}{19}{figure.caption.10}
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Exemplo de modelo da estrutura de um cen\IeC {\'a}rio\relax }}{19}{figure.caption.11}
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Ilustra\IeC {\c c}\IeC {\~a}o de um cen\IeC {\'a}rio no arquivo .feature\relax }}{21}{figure.caption.12}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Modelo da estrutura de uma est\IeC {\'o}ria do usu\IeC {\'a}rio\relax }}{18}{figure.caption.10}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Exemplo de escrita de uma est\IeC {\'o}ria do usu\IeC {\'a}rio\relax }}{19}{figure.caption.11}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Exemplo de modelo da estrutura de um cen\IeC {\'a}rio\relax }}{19}{figure.caption.12}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Ilustra\IeC {\c c}\IeC {\~a}o de um cen\IeC {\'a}rio no arquivo .feature\relax }}{21}{figure.caption.13}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Arquitetura utilizada no sistema desenvolvido\relax }}{28}{figure.caption.13}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o da integra\IeC {\c c}\IeC {\~a}o do desenvolvimento e automa\IeC {\c c}\IeC {\~a}o dos testes\relax }}{29}{figure.caption.14}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Arquitetura dos pacotes de testes automatizados de unidade e integra\IeC {\c c}\IeC {\~a}o, dentro do pacote de testes Communicator.\relax }}{30}{figure.caption.15}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Teste para valida\IeC {\c c}\IeC {\~a}o do construtor da classe JAudioCommunicator\relax }}{31}{figure.caption.16}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o dos testes unit\IeC {\'a}rios para classe JAudioCommunicator\relax }}{31}{figure.caption.17}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o dos testes de integra\IeC {\c c}\IeC {\~a}o para classe JAudioCommunicator\relax }}{32}{figure.caption.18}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Teste para valida\IeC {\c c}\IeC {\~a}o do construtor da classe ACECommunicator\relax }}{32}{figure.caption.19}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o dos testes unit\IeC {\'a}rios para classe ACECommunicator\relax }}{33}{figure.caption.20}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o dos testes de integra\IeC {\c c}\IeC {\~a}o para classe ACECommunicator\relax }}{34}{figure.caption.21}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o de teste que valida o arquivo featureVectorFile. \relax }}{35}{figure.caption.22}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o de teste que valida a classifica\IeC {\c c}\IeC {\~a}o de um \IeC {\'a}udio como sirene.\relax }}{35}{figure.caption.23}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Prot\IeC {\'o}tipo da interface do sistema\relax }}{36}{figure.caption.24}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces Est\IeC {\'o}ria do usu\IeC {\'a}rio desenvolvida pelo sistema\relax }}{36}{figure.caption.25}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Arquitetura dos pacotes respons\IeC {\'a}veis pela implementa\IeC {\c c}\IeC {\~a}o dos testes de BDD com Cucumber.\relax }}{37}{figure.caption.26}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Cen\IeC {\'a}rios de testes automatizados utilizando Cucumber\relax }}{38}{figure.caption.27}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o dos steps de um cen\IeC {\'a}rio de teste com Cucumber\relax }}{39}{figure.caption.28}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Resposta da execu\IeC {\c c}\IeC {\~a}o dos cen\IeC {\'a}rios de testes que foram implementados com Cucumber\relax }}{40}{figure.caption.29}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Resposta da execu\IeC {\c c}\IeC {\~a}o de um cen\IeC {\'a}rio de testes que possui um step com falha\relax }}{41}{figure.caption.30}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Quantidade de cen\IeC {\'a}rios de testes e de steps pertencentes a feature executada no Cucumber\relax }}{41}{figure.caption.31}
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Pir\IeC {\^a}mide de testes dividida nas faces de neg\IeC {\'o}cio e tecnologia.\relax }}{42}{figure.caption.32}
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Pir\IeC {\^a}mide com as quantidades de testes desenvolvidos neste trabalho\relax }}{43}{figure.caption.33}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Arquitetura utilizada no sistema desenvolvido\relax }}{28}{figure.caption.14}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Representa\IeC {\c c}\IeC {\~a}o da integra\IeC {\c c}\IeC {\~a}o do desenvolvimento e automa\IeC {\c c}\IeC {\~a}o dos testes\relax }}{29}{figure.caption.15}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Arquitetura dos pacotes de testes automatizados de unidade e integra\IeC {\c c}\IeC {\~a}o, dentro do pacote de testes Communicator.\relax }}{30}{figure.caption.16}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o de teste que valida o arquivo featureVectorFile. \relax }}{35}{figure.caption.23}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o de teste que valida a classifica\IeC {\c c}\IeC {\~a}o de um \IeC {\'a}udio como sirene.\relax }}{35}{figure.caption.24}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Prot\IeC {\'o}tipo da interface do sistema\relax }}{36}{figure.caption.25}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Est\IeC {\'o}ria do usu\IeC {\'a}rio desenvolvida pelo sistema\relax }}{36}{figure.caption.26}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Arquitetura dos pacotes respons\IeC {\'a}veis pela implementa\IeC {\c c}\IeC {\~a}o dos testes de BDD com Cucumber.\relax }}{37}{figure.caption.27}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Cen\IeC {\'a}rios de testes automatizados utilizando Cucumber\relax }}{38}{figure.caption.28}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Implementa\IeC {\c c}\IeC {\~a}o dos steps de um cen\IeC {\'a}rio de teste com Cucumber\relax }}{39}{figure.caption.29}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Resposta da execu\IeC {\c c}\IeC {\~a}o dos cen\IeC {\'a}rios de testes que foram implementados com Cucumber\relax }}{40}{figure.caption.30}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Resposta da execu\IeC {\c c}\IeC {\~a}o de um cen\IeC {\'a}rio de testes que possui um step com falha\relax }}{41}{figure.caption.31}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces Quantidade de cen\IeC {\'a}rios de testes e de steps pertencentes \IeC {\`a} feature executada no Cucumber\relax }}{41}{figure.caption.32}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Pir\IeC {\^a}mide de testes dividida nas faces de neg\IeC {\'o}cio e tecnologia.\relax }}{42}{figure.caption.33}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Pir\IeC {\^a}mide com as quantidades de testes desenvolvidos neste trabalho\relax }}{44}{figure.caption.37}
 \addvspace {10\p@ }
